@@ -3,9 +3,6 @@
 def function(x=0,y=0,z=0):
   print "x = " + str(x) + ",y = " + str(y) + ", z= " + str(z)
 
-
-
-
 print "Enter a the name of a file containing a,b,n numbers: ",
 filename = raw_input()
 
